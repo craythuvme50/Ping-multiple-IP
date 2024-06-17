@@ -1,5 +1,5 @@
 # Ping-multiple-IP
-Testd on macOS 13.6.7 with Python 3.9.6.
+Tested on macOS 13.6.7 with Python 3.9.6.
 
 
 1. Read IP from "ip_list.txt" file.
